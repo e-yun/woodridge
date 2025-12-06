@@ -7,7 +7,7 @@
   "photo-preview": "copy",
   "photo-download": "copy",
   "photo-quality": 100,
-  "small-size": 9999,
+  "small-size": 2048,
   "cleanup": true,
   "theme": "flow",
   "theme-style": "./custom.css",
