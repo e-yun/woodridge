@@ -1,13 +1,15 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Wood-Ridge Home Photo Gallery",
+  "embed-exif": "true",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
-  "download-photos": "copy",
+  "photo-preview": "copy",
+  "photo-download": "copy",
   "cleanup": true,
   "theme": "flow",
-  "css": "./custom.css",
+  "theme-style": "./custom.css",
   "footer": "",
   "usage-stats": false
 }
